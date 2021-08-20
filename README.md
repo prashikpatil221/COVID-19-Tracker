@@ -9,7 +9,7 @@ Application is available here:
         </tr>
         <tr>
             <td><img src = "app/screenshots/3.png" height = "480" width="270"></td>
-            <td><img src = "app/screenshots/4.png" height = "480" width="270"></td>
+            
         </tr>
 </table>
 
